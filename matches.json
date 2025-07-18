@@ -1,0 +1,48 @@
+{
+    "7_16": [
+        {
+            "winner": "Anu",
+            "loser": "Nyk"
+        },
+        {
+            "winner": "Hayden",
+            "loser": "Brendon"
+        }
+    ],
+    "7_17": [
+        {
+            "winner": "Anu",
+            "loser": "Nyk"
+        },
+        {
+            "winner": "Franky",
+            "loser": "Hayden"
+        },
+        {
+            "winner": "Anu",
+            "loser": "Franky"
+        },
+        {
+            "winner": "Hayden",
+            "loser": "Milo"
+        }
+    ],
+    "6_18": [
+        {
+            "winner": "Franky",
+            "loser": "Milo"
+        },
+        {
+            "winner": "Anu",
+            "loser": "Franky"
+        },
+        {
+            "winner": "Hayden",
+            "loser": "Nyk"
+        },
+        {
+            "winner": "Brendon",
+            "loser": "Milo"
+        }
+    ]
+}
