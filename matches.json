@@ -44,5 +44,15 @@
             "winner": "Brendon",
             "loser": "Milo"
         }
+    ],
+    "7_21": [
+        {
+            "winner": "Nyk",
+            "loser": "Franky"
+        },
+        {
+            "winner": "Theo",
+            "loser": "Milo"
+        }
     ]
 }
