@@ -76,6 +76,23 @@ def print_leaderboard():
     
     return None
 
+def write_leaderboard():
+    elo = show_elo()
+    
+    sorted_keys = sorted(elo, key=elo.get, reverse=True)
+    
+    
+    with open('README.md', 'w') as f:
+        f.write("# Pool Elo Leaderboard\n\n")
+        f.write("## Current Elo Ratings\n\n")
+        f.write("The following are the current Elo ratings for each player based on the matches played.\n\n")
+        f.write("| Rank | Player   | Elo Rating |\n")
+        f.write("|------|----------|------------|\n")
+        for i, name in enumerate(sorted_keys):
+            f.write("|" + str(i+1)+"|" + name + "|" + str(elo[name]) + "|" + "\n")
+    
+    return None
+
 # def elo_to_df():
 #     with open('matches.json', 'r') as f:
 #         matches = json.load(f)
