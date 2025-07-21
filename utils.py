@@ -44,6 +44,7 @@ def show_elo(print=False):
         'Franky': 1200,
         'Hayden': 1200,
         'Brendon': 1200,
+        'Aayushka': 1200,
     }
     
     for date in matches:
