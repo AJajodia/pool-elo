@@ -55,12 +55,26 @@
             "loser": "Milo"
         },
         {
+            "winner": "Theo",
+            "loser": "Nyk"
+        },
+        {
             "winner": "Hayden",
             "loser": "Aayushka"
+        }
+    ],
+    "7_22": [
+        {
+            "winner": "Theo",
+            "loser": "Anu"
+        },
+        {
+            "winner": "Brendon",
+            "loser": "Nyk"
         },
         {
             "winner": "Theo",
-            "loser": "Nyk"
+            "loser": "Hayden"
         }
     ]
 }
