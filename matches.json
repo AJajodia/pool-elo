@@ -76,5 +76,19 @@
             "winner": "Theo",
             "loser": "Hayden"
         }
+    ],
+    "7_23": [
+        {
+            "winner": "Hayden",
+            "loser": "Franky"
+        },
+        {
+            "winner": "Anu",
+            "loser": "Nyk"
+        },
+        {
+            "winner": "Nyk",
+            "loser": "Anu"
+        }
     ]
 }
