@@ -90,5 +90,27 @@
             "winner": "Nyk",
             "loser": "Anu"
         }
+    ],
+    "7_24": [
+        {
+            "winner": "Milo",
+            "loser": "Franky"
+        },
+        {
+            "winner": "Franky",
+            "loser": "Milo"
+        },
+        {
+            "winner": "Franky",
+            "loser": "Milo"
+        },
+        {
+            "winner": "Theo",
+            "loser": "Brendon"
+        },
+        {
+            "winner": "Hayden",
+            "loser": "Nyk"
+        }
     ]
 }
